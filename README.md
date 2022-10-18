@@ -1,6 +1,7 @@
 # insta-fake-detector
 
 Credit to Kristo Radion Purba for the dataset. Check out his paper:
+
 K. R. Purba, D. Asirvatham and R. K. Murugesan,
 "Classification of instagram fake users using supervised machine learning algorithms,"
 International Journal of Electrical and Computer Engineering (IJECE),
