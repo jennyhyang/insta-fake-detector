@@ -1,6 +1,7 @@
 # Instagram Fake User Detector
 
-Collaborators: Idris Wardere
+Collaborated with: Idris Wardere
+
 
 
 Credit to Kristo Radion Purba for the dataset. Check out his paper:
