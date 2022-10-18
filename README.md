@@ -39,9 +39,13 @@ the validation and training datasets for each model.
 
 We discovered that the **Random Forest Classifier** performed best with a validation error of 10.9%.
 The model had the following hyperparameters: 
+
 `n_estimators = 100`
+
 `max_depth = 10`
+
 `random_state = 0`
+
 Since the validation error was similar to the train error (9.7%), we believe the model generalizes well.
 Lastly, we examined the feature importances of the Random Forest Classifier and found that the most
 important feature was link availability while the least important feature was profile picture availability.
