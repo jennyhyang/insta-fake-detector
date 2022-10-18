@@ -1,6 +1,6 @@
 # insta-fake-detector
 
-Co-authored by: Idris Wardere
+Collaborators: Idris Wardere
 
 Credit to Kristo Radion Purba for the dataset. Check out his paper:
 
